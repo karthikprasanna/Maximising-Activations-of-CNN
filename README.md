@@ -1,4 +1,5 @@
-**TEAM 25: Understanding Neural Networks Through Deep Visualization**
+**Understanding Neural Networks Through Deep Visualization**
 ============================
 
-https://drive.google.com/drive/folders/1vlwrdQBxt1-v9mYl1p-yvJNIi3_UU8wb?usp=share_link
+Documentation: https://drive.google.com/file/d/1yuwcs-LDm5sYJiMNEjYiEi0q0_c8S48Y/view?usp=sharing
+
